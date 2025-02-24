@@ -1,6 +1,42 @@
-# 💫 About Me:
-I'm currently taking Cisco network courses alongside the University.<br>I'm focusing on security and android development.<br>I'm looking to collaborate on big projects to learn new things and gain experience.<br>I'm A computer engineering student at Amirkabir University of Technology, who is so keen on learning and practicing.
+---
 
+# 👋 Hi, I'm Sarvin Nami
+
+## 🚀 About Me
+I'm a Computer Engineer with a strong background in security, privacy, and AI-driven solutions. My expertise lies in software development, machine learning, and innovative design applications. I have a particular passion for **Android Development** and **AI work**, which drive my professional projects.
+
+## 🎓 Education
+- **B.Sc. in Computer Engineering** – Amirkabir University of Technology  
+  Research areas: Security & Privacy, AI-powered solutions
+
+## 🔬 Research & Projects
+
+### **🔹 Bachelor's Thesis**
+- **Title:** Enhancing Software Vulnerability Detection using LoRA-trained WizardCoder  
+- **Supervisor:** Dr. Hamidreza Shahriari  
+- **Summary:** Developed an optimized method for training WizardCoder to identify software vulnerabilities, significantly improving accuracy in security analysis.
+
+### **🔹 Uritect Inc.**
+- **Role:** Android Developer & Researcher  
+- **Focus:** Contributing to cutting-edge projects with an emphasis on **Android Development** and **AI work**.
+
+### **🔹 AI-Powered Design Application**
+- **Technologies:** Jetpack Compose, Kotlin, AI Model Integration  
+- **Features:** Converts sketches into renders, suggests furniture placement, and offers decor ideas.
+
+## 🛠️ Technical Skills
+- **Languages:** Java, Kotlin, Python, MATLAB, C  
+- **Frameworks & Tools:** Jetpack Compose, Flask  
+- **Machine Learning:** Experience with LLMs, NLP, and fine-tuning models using LoRA
+
+## 🎯 Experience
+- **Teaching Assistant:**
+  - **IoT Course:** Designed simulation-based assignments to mirror real-world IoT scenarios.
+  - **Information Security Course:** Developed coding notebook projects and challenging assignments for deeper learning.
+
+## 🌱 Currently Learning
+- Advanced techniques in **Android Development** and **AI work**
+- Emerging trends in security and privacy within modern applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvin-nami) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sarvin-nami) 
@@ -14,5 +50,7 @@ I'm currently taking Cisco network courses alongside the University.<br>I'm focu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srvn-nm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+_This README is a snapshot of my professional journey and ongoing projects. Feel free to connect and collaborate!_
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
