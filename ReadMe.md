@@ -1,9 +1,9 @@
 ---
 
-# 👋 Hi, I'm Sarvin Nami
+# 👋 Hi, I'm Sarvin
 
 ## 🚀 About Me
-I'm a Computer Engineer with a strong background in security, privacy, and AI-driven solutions. My expertise lies in software development, machine learning, and innovative design applications. I have a particular passion for **Android Development** and **AI work**, which drive my professional projects.
+I'm a Computer Engineer with a strong background in security, privacy, and AI-driven solutions. My expertise lies in software development, machine learning, and innovative design applications. I am particularly passionate about **Android Development** and **AI work**, which drive my professional projects.
 
 ## 🎓 Education
 - **B.Sc. in Computer Engineering** – Amirkabir University of Technology  
