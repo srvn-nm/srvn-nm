@@ -11,7 +11,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-🌍 **Open to relocation across Europe** · 📫 [Srvn0nm@gmail.com](mailto:Srvn0nm@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sarvin-nami-2a1ab7218/)
+📫 [Srvn0nm@gmail.com](mailto:Srvn0nm@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sarvin-nami-2a1ab7218/)
 
 </div>
 
